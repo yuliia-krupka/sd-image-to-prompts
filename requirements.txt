@@ -1,0 +1,9 @@
+torch
+transformers
+sentence-transformers
+open_clip_torch
+Pillow
+pandas
+numpy
+matplotlib
+tqdm

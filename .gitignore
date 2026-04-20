@@ -1,0 +1,15 @@
+# Kaggle data
+*.png
+*.jpg
+*.jpeg
+submission.csv
+/kaggle/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Env
+.env
+*.key
